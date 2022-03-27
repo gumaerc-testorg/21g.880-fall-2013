@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: ea2fda14-d854-dc3e-84aa-e35388c89f45
 resourcetype: Document
 title: "Questions about Jo\xE3o e Maria"
 uid: 76d42a65-cca1-00db-369b-347a921f0f3f

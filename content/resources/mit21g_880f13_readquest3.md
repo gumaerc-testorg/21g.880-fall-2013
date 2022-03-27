@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: ea2fda14-d854-dc3e-84aa-e35388c89f45
 resourcetype: Document
 title: Questions about Puxa-Puxa reading
 uid: 0eae8d67-2f78-0bc3-4d27-9f6864d0061d

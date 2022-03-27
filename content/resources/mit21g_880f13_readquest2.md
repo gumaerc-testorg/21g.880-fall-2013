@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: ea2fda14-d854-dc3e-84aa-e35388c89f45
 resourcetype: Document
 title: "Questions about Mo\xE7a do interior"
 uid: b964561f-10e2-ce73-0705-b354e1c51e03

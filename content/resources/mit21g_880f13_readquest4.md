@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: ea2fda14-d854-dc3e-84aa-e35388c89f45
 resourcetype: Document
 title: Questions about a retranqueta do polidor
 uid: 9823aec2-9af8-da13-1431-2f2be33030a2
