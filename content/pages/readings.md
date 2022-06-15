@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of course texts and the schedule of readings
+  by topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -599,7 +601,7 @@ No readings
 
 {{< anchor "Posto_5" >}}{{< /anchor >}}\[Oh Melhor\] "Crônica 1: Posto 5."
 
-[Reading questions for crônica 1 (PDF)]({{< baseurl >}}/resources/mit21g_880f13_readquest1)
+{{% resource_link 563a076c-631d-c08d-9b63-258c32ba9b75 "Reading questions for crônica 1 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -640,7 +642,7 @@ No readings
 
 {{< anchor "Mo_a_do_interior" >}}{{< /anchor >}}\[Oh Melhor\] "Crônica 2: Moça do interior."
 
-[Reading questions for crônica 2 (PDF)]({{< baseurl >}}/resources/mit21g_880f13_readquest2)
+{{% resource_link b964561f-10e2-ce73-0705-b354e1c51e03 "Reading questions for crônica 2 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -718,7 +720,7 @@ No readings
 
 {{< anchor "Puxa-puxa" >}}{{< /anchor >}}\[O Melhor\] "Crônica 3: Puxa-puxa."
 
-[Reading questions for crônica 3 (PDF)]({{< baseurl >}}/resources/mit21g_880f13_readquest3)
+{{% resource_link 0eae8d67-2f78-0bc3-4d27-9f6864d0061d "Reading questions for crônica 3 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -811,7 +813,7 @@ No readings
 
 {{< anchor "A_Retranqueta_do_Polidor" >}}{{< /anchor >}}\[O Melhor\] "Crônica 4: A retranqueta do polidor."
 
-[Reading questions for crônica 4 (PDF)]({{< baseurl >}}/resources/mit21g_880f13_readquest4)
+{{% resource_link 9823aec2-9af8-da13-1431-2f2be33030a2 "Reading questions for crônica 4 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -955,7 +957,7 @@ No readings
 
 {{< anchor "Joao_Maria" >}}{{< /anchor >}}\[O Melhor\] "Crônica 5: João e Maria."
 
-[Reading questions for crônica 5 (PDF)]({{< baseurl >}}/resources/mit21g_880f13_readquest5)
+{{% resource_link 76d42a65-cca1-00db-369b-347a921f0f3f "Reading questions for crônica 5 (PDF)" %}}
 
 
 {{< tdclose >}}
