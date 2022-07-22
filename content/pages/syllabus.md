@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, required books, grading, and academic integrity.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9e638e3e-7873-00cc-13a7-546bf8d4a764
 ---
@@ -93,7 +97,7 @@ Oral presentation
 
 {{< tableclose >}}
 
-See the [assignment]({{< baseurl >}}/pages/assignments) section for more detailed information.
+See the {{% resource_link 679f2d88-de79-a751-5a53-9e9a8487ce10 "assignment" %}} section for more detailed information.
 
 Grading Scale
 -------------
