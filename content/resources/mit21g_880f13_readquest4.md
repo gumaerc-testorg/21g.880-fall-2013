@@ -6,6 +6,7 @@ file: /courses/21g-880-accelerated-introductory-portuguese-for-spanish-speakers-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Questions about a retranqueta do polidor
 uid: 9823aec2-9af8-da13-1431-2f2be33030a2
 ---
 This resource contains the information regarding questions about a retranqueta do polidor.
-

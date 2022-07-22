@@ -6,6 +6,7 @@ file: /courses/21g-880-accelerated-introductory-portuguese-for-spanish-speakers-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Questions about Mo\xE7a do interior"
 uid: b964561f-10e2-ce73-0705-b354e1c51e03
 ---
 This resource contains the information regarding questions about moça do interior.
-

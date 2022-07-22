@@ -6,6 +6,7 @@ file: /courses/21g-880-accelerated-introductory-portuguese-for-spanish-speakers-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Questions about Puxa-Puxa reading
 uid: 0eae8d67-2f78-0bc3-4d27-9f6864d0061d
 ---
 This resource contains the information regarding questions about puxa-puxa reading.
-

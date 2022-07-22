@@ -6,6 +6,7 @@ file: /courses/21g-880-accelerated-introductory-portuguese-for-spanish-speakers-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Questions about Jo\xE3o e Maria"
 uid: 76d42a65-cca1-00db-369b-347a921f0f3f
 ---
 This resource contains the information regarding questions about joão e maria.
-

@@ -6,6 +6,7 @@ file: /courses/21g-880-accelerated-introductory-portuguese-for-spanish-speakers-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Questions about Posto 5 reading
 uid: 563a076c-631d-c08d-9b63-258c32ba9b75
 ---
 This resource contains the information regarding questions about posto 5 reading.
-
