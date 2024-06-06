@@ -3,6 +3,7 @@ content_type: resource
 description: "This resource contains the information regarding questions about jo\xE3\
   o e maria."
 file: /courses/21g-880-accelerated-introductory-portuguese-for-spanish-speakers-fall-2013/76d42a65cca100db369b347a921f0f3f_MIT21G_880F13_readquest5.pdf
+file_size: 76587
 file_type: application/pdf
 learning_resource_types:
 - Readings
