@@ -1,13 +1,13 @@
 ---
 content_type: page
 description: This section provides links to related resources for the course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 5fe86f2a-c692-9395-07dd-d9387f1f3d3d
 ---
-
-[_Ponto de Encontro_ Resources](https://wps.prenhall.com/ml_ponto_de_encontro_2e/)—Audio resources, practice exercises, and web resources
+[*Ponto de Encontro* Resources](https://lingrolearning.com/product/ponto/)—Audio resources, practice exercises, and web resources
 
 [Brazilian Studies Guide](http://www.umich.edu/~port150/)
 
@@ -17,15 +17,15 @@ uid: 5fe86f2a-c692-9395-07dd-d9387f1f3d3d
 
 [Tá Falado](http://www.coerll.utexas.edu/brazilpod/tafalado/)—Brazilian Portuguese Pronunciation for Speakers of Spanish
 
-[Bilingual Portuguese-English dictionary](http://www.wordreference.com)
+[Bilingual Portuguese-English dictionary](http://www.wordreference.com/)
 
 [Portuguese dictionary (Brazil)](http://www.aulete.com.br/)
 
 [Portuguese dictionary (Portugal)](http://www.priberam.pt/dlpo/)
 
-[Brasileiros No Mundo](http://www.brasileirosnomundo.itamaraty.gov.br/)
+[Brasileiros No Mundo](https://www.gov.br/mre/pt-br/assuntos/portal-consular/comunidade-brasileira-no-exterior-2013-estatisticas-2022)
 
-[Casa Fernando Pessoa](http://casafernandopessoa.cm-lisboa.pt/)
+[Casa Fernando Pessoa](https://casafernandopessoa.pt/en/cfp/house)
 
 [Machado de Assis](http://machado.mec.gov.br/)
 
@@ -35,8 +35,8 @@ uid: 5fe86f2a-c692-9395-07dd-d9387f1f3d3d
 
 [Notícias Lusófonas](http://www.noticiaslusofonas.com/)
 
-[Revista _Veja_](http://veja.abril.com.br/)
+[Revista *Veja*](http://veja.abril.com.br/)
 
-[_Caros Amigos_](https://en.wikipedia.org/wiki/Caros_Amigos)
+[*Caros Amigos*](https://en.wikipedia.org/wiki/Caros_Amigos)
 
-[_Carta Capital_](http://www.cartacapital.com.br/)
+[*Carta Capital*](http://www.cartacapital.com.br/)
