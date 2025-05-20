@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding questions about puxa-puxa
   reading.
-file: /ol-ocw-studio-app/courses/21g-880-accelerated-introductory-portuguese-for-spanish-speakers-fall-2013/0eae8d672f780bc34d279f6864d0061d_MIT21G_880F13_readquest3.pdf
+file: /courses/21g-880-accelerated-introductory-portuguese-for-spanish-speakers-fall-2013/0eae8d672f780bc34d279f6864d0061d_MIT21G_880F13_readquest3.pdf
 file_size: 75213
 file_type: application/pdf
 learning_resource_types:
