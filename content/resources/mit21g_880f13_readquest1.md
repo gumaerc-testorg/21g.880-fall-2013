@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding questions about posto
   5 reading.
-file: /ol-ocw-studio-app/courses/21g-880-accelerated-introductory-portuguese-for-spanish-speakers-fall-2013/563a076c631dc08d9b63258c32ba9b75_MIT21G_880F13_readquest1.pdf
+file: /courses/21g-880-accelerated-introductory-portuguese-for-spanish-speakers-fall-2013/563a076c631dc08d9b63258c32ba9b75_MIT21G_880F13_readquest1.pdf
 file_size: 82836
 file_type: application/pdf
 learning_resource_types:
