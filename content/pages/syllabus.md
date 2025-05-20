@@ -22,7 +22,7 @@ Our focus is on communication, but the four basic language skills (listening, sp
 
 ## Prerequisites
 
-[*21G.704 Spanish IV*](https://ocw-studio.odl.mit.edu/courses/21g-704-spanish-iv-spring-2005)
+[*21G.704 Spanish IV*](https://ocw.mit.edu/courses/21g-704-spanish-iv-spring-2005/)
 
 21G.774 *Spanish IV-Globalization*
 
