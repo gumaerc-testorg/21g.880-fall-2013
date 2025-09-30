@@ -7,36 +7,36 @@ ocw_type: CourseSection
 title: Related Resources
 uid: 5fe86f2a-c692-9395-07dd-d9387f1f3d3d
 ---
-[*Ponto de Encontro* Resources](https://lingrolearning.com/product/ponto/)—Audio resources, practice exercises, and web resources
+{{% resource_link "efb6a5e3-67f8-43d5-939e-a3dc5de00374" "*Ponto de Encontro* Resources" %}}—Audio resources, practice exercises, and web resources
 
-[Brazilian Studies Guide](http://www.umich.edu/~port150/)
+{{% resource_link "a294c13d-f86f-4ab5-a616-b3dae26d8e9c" "Brazilian Studies Guide" %}}
 
-[Domínio Público–Digital Library](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)
+{{% resource_link "b772c1fc-8aec-4c48-b26f-5322b1a9d412" "Domínio Público–Digital Library" %}}
 
-[Camões Instituto Da Cooperação E Da Lingua Portugal](http://www.instituto-camoes.pt/)
+{{% resource_link "54a28b4f-6e02-4d2a-85ed-4ca90771d50b" "Camões Instituto Da Cooperação E Da Lingua Portugal" %}}
 
-[Tá Falado](http://www.coerll.utexas.edu/brazilpod/tafalado/)—Brazilian Portuguese Pronunciation for Speakers of Spanish
+{{% resource_link "cbd1b0d5-038a-4a7c-8593-2dd8af24ad4f" "Tá Falado" %}}—Brazilian Portuguese Pronunciation for Speakers of Spanish
 
-[Bilingual Portuguese-English dictionary](http://www.wordreference.com/)
+{{% resource_link "758d05bc-d45c-4d67-afe6-8ad241e965ff" "Bilingual Portuguese-English dictionary" %}}
 
-[Portuguese dictionary (Brazil)](http://www.aulete.com.br/)
+{{% resource_link "c89e2f71-27bb-4a77-a982-6a3c36c8bf89" "Portuguese dictionary (Brazil)" %}}
 
-[Portuguese dictionary (Portugal)](http://www.priberam.pt/dlpo/)
+{{% resource_link "f571b237-f66b-4159-8d96-74c43ee72dd8" "Portuguese dictionary (Portugal)" %}}
 
-[Brasileiros No Mundo](https://www.gov.br/mre/pt-br/assuntos/portal-consular/comunidade-brasileira-no-exterior-2013-estatisticas-2022)
+{{% resource_link "9833e7be-495d-435a-8a53-8d26c2c63a4a" "Brasileiros No Mundo" %}}
 
-[Casa Fernando Pessoa](https://casafernandopessoa.pt/en/cfp/house)
+{{% resource_link "fcd9173c-6346-4123-a7cc-8b019ea9af1d" "Casa Fernando Pessoa" %}}
 
-[Machado de Assis](http://machado.mec.gov.br/)
+{{% resource_link "d937c349-162c-48b0-a8a7-d9d4a8fa1ccc" "Machado de Assis" %}}
 
-[Journais e revistas em Português](http://www.jornaiserevistas.com/)
+{{% resource_link "a7a15e61-ee4b-4849-870d-e050726ec904" "Journais e revistas em Português" %}}
 
-[Conversa Brasileira](https://www.coerll.utexas.edu/coerll/project/conversa-brasileira)
+{{% resource_link "f4935ccd-997a-4ce8-8c29-92e87c3575e5" "Conversa Brasileira" %}}
 
-[Notícias Lusófonas](http://www.noticiaslusofonas.com/)
+{{% resource_link "14e6a1d5-4026-4264-9f0f-d4885047f4bf" "Notícias Lusófonas" %}}
 
-[Revista *Veja*](http://veja.abril.com.br/)
+{{% resource_link "21c3e1eb-18ed-43a6-bd52-e95fe5403a5b" "Revista *Veja*" %}}
 
-[*Caros Amigos*](https://en.wikipedia.org/wiki/Caros_Amigos)
+{{% resource_link "d9d2d3ef-85e3-4023-97d4-ddeadd757cd6" "*Caros Amigos*" %}}
 
-[*Carta Capital*](http://www.cartacapital.com.br/)
+{{% resource_link "35d3b6ff-c17b-43e9-a93a-86360293c372" "*Carta Capital*" %}}
