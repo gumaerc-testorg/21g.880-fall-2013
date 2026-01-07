@@ -22,7 +22,7 @@ Our focus is on communication, but the four basic language skills (listening, sp
 
 ## Prerequisites
 
-{{% resource_link "0788b88f-8560-4467-8ff9-9bf12a758e84" "*21G.704 Spanish IV*" %}}
+[*21G.704 Spanish IV*](https://ocw.mit.edu/courses/21g-704-spanish-iv-spring-2005/)
 
 21G.774 *Spanish IV-Globalization*
 
@@ -30,8 +30,8 @@ Permission of the instructor
 
 ## Required Books
 
-- de Jouet-Pastre, Clemence, Anna Klobucka, et al. {{% resource_link "e5a708af-b49d-49c6-96a0-53e18b11b8e0" "*Ponto de Encontro: Portuguese as a World Language*" %}}*.* 2nd ed. Prentice Hall, 2012. ISBN: 9780205782765.
-- ———. {{% resource_link "9dbae8cb-b459-494d-af39-ba985ee3f6d9" "*MyPortugueseLab*" %}} *with Pearson eText for Ponto de Encontro: Portuguese as a World Language.* 2nd ed. Prentice Hall, 2013. ISBN: 9780205978533.
+- de Jouet-Pastre, Clemence, Anna Klobucka, et al. [*Ponto de Encontro: Portuguese as a World Language*](https://vdoc.pub/documents/ponto-de-encontro-portuguese-as-a-world-language-30t05j6g1qh0)*.* 2nd ed. Prentice Hall, 2012. ISBN: 9780205782765.
+- ———. [*MyPortugueseLab*](http://www.pearsonmylabandmastering.com/northamerica/mylanguagelabs/) *with Pearson eText for Ponto de Encontro: Portuguese as a World Language.* 2nd ed. Prentice Hall, 2013. ISBN: 9780205978533.
 - Harper Collins. *Collins Gem Portuguese Dictionary English-Portuguese, Portuguese-English*. Collins, 2000. ISBN: 9780004724096.
 - Nitti, John J., and Michael J. Ferreira. *501 Portuguese Verbs*. Barron's Educational Series, 2005. ISBN: 9780764129162.
 - Whitlam, John. *Modern Brazilian Portuguese Grammar: A Practical Guide*. Routledge, 2010. ISBN: 9780415566445.
@@ -70,4 +70,4 @@ A+ (98–100); A (94–97.9) A- (90–93.9); B+ (86–89.9); B (84–85.9); B- (
 
 ## Academic Integrity
 
-Academic integrity is defined by the Center of Academic Integrity as "a commitment, even in the face of adversity, to five fundamental values: honesty, trust, fairness, respect, and responsibility." If you haven't done so yet, please read the {{% resource_link "7d3e6eb8-6d68-407c-8b85-4bc5802dbd7e" "MIT Academic Integrity Handbook" %}}. Learning a foreign language is not something that typically occurs in isolation. Communication and practice are essential. Therefore, working with others is highly encouraged. However, there are cases in which collaboration is tantamount to cheating. There follow some examples of what is allowed and what is not in our class: having your pronunciation corrected by a native speaker before an oral presentation is perfectly acceptable. They won't utter the words for you in class. Using a spellchecker is valid if you are writing a text, but having a text edited by another person before submission is clearly a different matter. To a certain extent, the editor is the coauthor of the text. Likewise, the use of dictionaries is recommended, but no translation program may be used. In a few words, obtaining help from people or online resources is allowed as a way of enhancing your learning, but should be avoided altogether if as a result of it, the work submitted is not an accurate representation of the student's progress or capacity. If that's the case, it will be considered academic dishonesty. If you have doubts about what you can do in this class, consult with your instructor.
+Academic integrity is defined by the Center of Academic Integrity as "a commitment, even in the face of adversity, to five fundamental values: honesty, trust, fairness, respect, and responsibility." If you haven't done so yet, please read the [MIT Academic Integrity Handbook](http://integrity.mit.edu/). Learning a foreign language is not something that typically occurs in isolation. Communication and practice are essential. Therefore, working with others is highly encouraged. However, there are cases in which collaboration is tantamount to cheating. There follow some examples of what is allowed and what is not in our class: having your pronunciation corrected by a native speaker before an oral presentation is perfectly acceptable. They won't utter the words for you in class. Using a spellchecker is valid if you are writing a text, but having a text edited by another person before submission is clearly a different matter. To a certain extent, the editor is the coauthor of the text. Likewise, the use of dictionaries is recommended, but no translation program may be used. In a few words, obtaining help from people or online resources is allowed as a way of enhancing your learning, but should be avoided altogether if as a result of it, the work submitted is not an accurate representation of the student's progress or capacity. If that's the case, it will be considered academic dishonesty. If you have doubts about what you can do in this class, consult with your instructor.
