@@ -496,7 +496,7 @@ Teste 2: lições 4–7
 {{< tdopen >}}
 
 
-*   Vídeo: _O Povo Brasileiro_ (Parte 1)—"Matriz Tupi." September 20, 2013. YouTube. Accessed April 16, 2014. {{% resource_link "0211f8ce-ff0c-4e0b-b383-bbc9debf0509" "https://www.youtube.com/watch?v=Dmi0Jn\_9sPA" %}}
+*   Vídeo: _O Povo Brasileiro_ (Parte 1)—"Matriz Tupi." September 20, 2013. YouTube. Accessed April 16, 2014. [https://www.youtube.com/watch?v=Dmi0Jn\_9sPA](https://www.youtube.com/watch?v=Dmi0Jn_9sPA)
 
 
 {{< tdclose >}}
@@ -531,7 +531,7 @@ Enviar os exercícios da lição 8
 {{< tdopen >}}
 
 
-*   Vídeo: _O Povo Brasileiro_ (Parte 2)—"Matriz Lusa." September 20, 2013. YouTube. Accessed April 16, 2014. {{% resource_link "16810f21-77b8-4d42-9359-73a694c85d49" "https://www.youtube.com/watch?v=3kLJ8mmHbKo" %}}
+*   Vídeo: _O Povo Brasileiro_ (Parte 2)—"Matriz Lusa." September 20, 2013. YouTube. Accessed April 16, 2014. [https://www.youtube.com/watch?v=3kLJ8mmHbKo](https://www.youtube.com/watch?v=3kLJ8mmHbKo)
 
 
 {{< tdclose >}}
@@ -603,7 +603,7 @@ Enviar os exercícios da lição 9
 {{< tdopen >}}
 
 
-*   Vídeo: _O Povo Brasileiro_ (Parte 3)—"Matriz Afro." April 7, 2013. YouTube. Accessed April 16, 2014.  {{% resource_link "abf1b14a-9773-4225-a167-8cd299e50630" "https://www.youtube.com/watch?v=vwj1GBEYr\_s" %}}
+*   Vídeo: _O Povo Brasileiro_ (Parte 3)—"Matriz Afro." April 7, 2013. YouTube. Accessed April 16, 2014.  [https://www.youtube.com/watch?v=vwj1GBEYr\_s](https://www.youtube.com/watch?v=vwj1GBEYr_s)
 
 
 {{< tdclose >}}
@@ -690,7 +690,7 @@ Enviar exercícios da lição 11
 {{< tdopen >}}
 
 
-*   Vídeo: _O Povo Brasileiro_ (Parte 4)—"Encontros e desencontros." YouTube. April 7, 2013. Accessed April 16, 2014. {{% resource_link "30ed8b05-2843-4711-8f11-b40f29aa67ed" "https://www.youtube.com/watch?v=WWLxSGj8mN0" %}}
+*   Vídeo: _O Povo Brasileiro_ (Parte 4)—"Encontros e desencontros." YouTube. April 7, 2013. Accessed April 16, 2014. [https://www.youtube.com/watch?v=WWLxSGj8mN0](https://www.youtube.com/watch?v=WWLxSGj8mN0)
 
 
 {{< tdclose >}}
@@ -942,4 +942,4 @@ Apresentação oral (cont.)
 
 {{< tableclose >}}
 
-{{% resource_link "e89987a6-7384-4c67-9b82-0d8927300468" "" %}}
+[](http://wps.prenhall.com/wl_klobucka_ponto_1/70/17987/4604752.cw/index.html)
